@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: rgb(51, 56, 56);
+    height: 100vh;
+    place-items: center;
+    display: grid;
+}
+button{
+    font-family: "poppins",sans-serif;
+    font-size: 1.4em;
+    padding:1em 2em;
+    border-radius: 45px;
+    color: aliceblue;
+    background-color: transparent;
+    border: 4px solid white;
+    letter-spacing: 1px;
+    cursor: pointer;
+    outline: none;
+}
+#name{
+    font-family: "poppins",sans-serif;
+  
+}
